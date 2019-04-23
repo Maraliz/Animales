@@ -9,5 +9,7 @@ public class Hada extends Humano implements Volador {
 	public void  volar() {
 		System.out.println("yo vuelo con polvito magico ");
 	}
-
+	public void bailar() {
+		System.out.println("estoy bailando");
+	}
 }
